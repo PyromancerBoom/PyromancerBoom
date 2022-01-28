@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Computer Science Enthusiast!
+
+<p>This page is under construction. Meanwhile why dont you check this out : </p>
+
 <!--
 **PyromancerBoom/PyromancerBoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
 <a href="https://github.com/PyromancerBoom">
