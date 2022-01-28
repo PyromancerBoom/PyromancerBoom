@@ -2,7 +2,7 @@
 
 I'm a Computer Science Enthusiast!
 
-<p>This page is under construction. Meanwhile why dont you check this out : </p>
+<strong><p>This page is under construction. Meanwhile why dont you check this out : </p></strong>
 
 <!--
 **PyromancerBoom/PyromancerBoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
