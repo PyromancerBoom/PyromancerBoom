@@ -5,7 +5,7 @@
 </a>
 
 
-I'm a Computer Science Enthusiast!
+<p> I'm a Computer Science Enthusiast! </p>
 
 <strong><p>This page is under construction. Meanwhile why dont you check this out : </p></strong>
 
