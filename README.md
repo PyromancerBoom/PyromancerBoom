@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my page!
+
+<a href="https://www.linkedin.com/in/pb-a277b61ba/">
+  <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+</a>
 
 I'm a Computer Science Enthusiast!
 
@@ -18,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ### ⚙️ &nbsp;GitHub Stats
 
 <p align="center">
@@ -27,4 +33,21 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+
+
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/PyromancerBoom/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyromancerBoom#version3"/>
+  </a>
+</p>
+
+
+
+
+
+
 Last Edited on 28 Jan 2022
+
+// language and tools
