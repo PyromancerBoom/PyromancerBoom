@@ -4,7 +4,7 @@
   <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=PyromancerBoom&style=flat-square&color=red&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=PyromancerBoom&style=flat-square&color=blue&label=Profile+Views)
 
 
 <p> I'm a Computer Science Enthusiast! </p>
