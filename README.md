@@ -44,10 +44,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/PyromancerBoom/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyromancerBoom#version3&theme=gotham"/>
   </a>
-  
-  
- <img src="https://activity-graph.herokuapp.com/graph?username=PyromancerBoom&theme=gotham">
 </p>
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=PyromancerBoom&theme=gotham"></div>
 
 
 
