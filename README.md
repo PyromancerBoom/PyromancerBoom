@@ -42,8 +42,9 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/PyromancerBoom/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyromancerBoom#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyromancerBoom#version3&theme=gotham"/>
   </a>
+ <img src="https://activity-graph.herokuapp.com/graph?username=PyromncerBoom&theme=gotham">
 </p>
 
 
@@ -51,6 +52,4 @@ Here are some ideas to get you started:
 
 
 
-Last Edited on 28 Jan 2022
-
-// language and tools
+Last Edited on 29 Jan 2022
