@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="techStack" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="techStack" width="40" height="40"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="techStack" width="40" height="40"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="techStack" width="40" height="40"/></a>
 <br/>
 
 
