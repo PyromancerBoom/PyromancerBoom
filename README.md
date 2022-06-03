@@ -9,8 +9,6 @@
 
 <p> I'm a Computer Science Enthusiast! </p>
 
-<strong><p>This page is under construction. Meanwhile why dont you check this out : </p></strong>
-
 <!--
 **PyromancerBoom/PyromancerBoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -69,4 +67,4 @@ Here are some ideas to get you started:
 
 
 
-Last Edited on 29 Jan 2022
+Last Updated on 3rd June 2022
