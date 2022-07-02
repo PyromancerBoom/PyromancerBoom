@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/PyromancerBoom">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PyromancerBoom&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PyromancerBoom&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PyromancerBoom&layout=compact&langs_count=8&theme=radical"/>
 </a>
 </p>
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=PyromancerBoom&theme=radical"></div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=PyromancerBoom&theme=gotham"></div>
 
 
 
