@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="techStack" width="50" height="50"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain.svg" alt="techStack" width="50" height="50"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg" alt="techStack" width="50" height="50"/></a>
-<a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-plain.svg" alt="techStack" width="50" height="50"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" alt="techStack" width="50" height="50"/></a>
 <br/>
 
 
