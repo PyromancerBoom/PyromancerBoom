@@ -64,8 +64,6 @@ Here are some ideas to get you started:
 
 
 
-
-
 ## 🔥 My contribution streak
 
 <p align="center">
@@ -81,9 +79,10 @@ Here are some ideas to get you started:
 ## Some Repos you might find interesting :
 (Note: I keep updating these projects and some might a work in progress)
 
-[A URL Shortener](https://github.com/PyromancerBoom/smolUrl))
-<a href="https://github.com/PyromancerBoom/smolUrl"><h4>A Url Shortener</h4></a> <br>
+<a href="https://github.com/PyromancerBoom/smolUrl"><h4>A Url Shortener</h4></a>
+
 <a href="https://github.com/PyromancerBoom/SpringRESTApi"><h4>A REST Api in Spring Boot</h4></a>
+
 <a href="https://github.com/PyromancerBoom/LoginUIDesign"><h4>A Cool Login Page Design</h4></a>
 
 <a href="https://github.com/PyromancerBoom/Makeathon2022"><h4>A project that won a Hackathon</h4></a>
@@ -93,6 +92,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/PyromancerBoom/easyBankLandingPage"><h4>Frontend Mentor's EasyBank Landing Page</h4></a>
 
 <a href="https://github.com/PyromancerBoom/idgenenc"><h4>An ID Generator and AES Encryptor in Python</h4></a>
+<br>
 
 ### Some small flutter apps:
 
@@ -101,6 +101,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/PyromancerBoom/flutterSlidersTemplate"><h4>Various types of sliders</h4></a>
 
 <a href="https://github.com/PyromancerBoom/GridViewApp"><h4>An isolated Grid View App</h4></a>
+
+<hr>
 
 #### Other than this, feel free to scroll through my repos to see what I've been doing :)
 #### Until next time, traveller!
