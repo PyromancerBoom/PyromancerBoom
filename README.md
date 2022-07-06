@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 ## Some Repos you might find interesting :
 (Note: I keep updating these projects and some might a work in progress)
 
-[https://github.com/PyromancerBoom/smolUrl](A url Shortener)<br>
+[A URL Shortener]([A url Shortener](https://github.com/PyromancerBoom/smolUrl))<br>
 <a href="https://github.com/PyromancerBoom/smolUrl"><h4>A Url Shortener</h4></a> <br>
 <a href="https://github.com/PyromancerBoom/SpringRESTApi"><h4>A REST Api in Spring Boot</h4></a>
 <a href="https://github.com/PyromancerBoom/LoginUIDesign"><h4>A Cool Login Page Design</h4></a>
