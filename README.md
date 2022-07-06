@@ -82,9 +82,7 @@ Here are some ideas to get you started:
 (Note: I keep updating these projects and some might a work in progress)
 
 <a href="https://github.com/PyromancerBoom/smolUrl"><h4>A Url Shortener</h4></a> <br>
-
 <a href="https://github.com/PyromancerBoom/SpringRESTApi"><h4>A REST Api in Spring Boot</h4></a>
-
 <a href="https://github.com/PyromancerBoom/LoginUIDesign"><h4>A Cool Login Page Design</h4></a>
 
 <a href="https://github.com/PyromancerBoom/Makeathon2022"><h4>A project that won a Hackathon</h4></a>
