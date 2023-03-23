@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Stats
 
-- 🔭 I’m currently working on REST APIs
+- 🔭 I’m currently working on Software Development and AI
 - 👯 I’m looking to collaborate on Projects
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about anything you want :D 
