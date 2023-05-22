@@ -2,10 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=PyromancerBoom&style=flat-square&color=blue&label=Profile+Views)
 
-#### Connect with me: 
-<a href="https://www.linkedin.com/in/pb-a277b61ba/">
+<a href="https://www.linkedin.com/in/pb-a277b61ba/"><p> Connect with me: </p>
   <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a>
+
 
 <p> I'm a Technology Enthusiast who likes software :p</p>
 
