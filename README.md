@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Priyansh
 
-<p> Connect with me: </p>
 <a href="https://www.linkedin.com/in/pb-a277b61ba/">
   <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a>
@@ -47,8 +46,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyromancerBoom&theme=radical#version3"/>
   </a>
 </p>
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=PyromancerBoom&theme=gotham"></div>
 </p>
 
 
@@ -72,7 +69,14 @@ Here are some ideas to get you started:
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" alt="techStack" width="50" height="50"/></a>
 <br/>
 
-## Some Repos you might find interesting :
-(Note: I keep updating these projects and some might a work in progress)
+## My projects, chronologically:
 
+(I keep updating these projects and some might a work in progress)
 <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
+<a href="https://supwooferai.vercel.app/">SupWoofer</a> <a href="https://devpost.com/software/supwoofer">Devpost</a>
+<a href="https://github.com/PyromancerBoom/ReviewSnapAI">ReviewSnap</a>
+<a href="https://github.com/PyromancerBoom/Makeathon2022">Hackathon project(Won span country)</a>
+<a href="https://github.com/PyromancerBoom/LoginUIDesign">An unusual login page UI</a>
+<a href="https://github.com/PyromancerBoom/easyBankLandingPage">Frontend Mentor Landing Page</a>
+<a href="https://github.com/PyromancerBoom/wordgenerator">Random Word generator</a>
+<a href="https://github.com/PyromancerBoom/idgenenc">Qovid-19</a>
