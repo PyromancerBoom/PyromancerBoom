@@ -2,6 +2,10 @@
 
 ![](https://komarev.com/ghpvc/?username=PyromancerBoom&style=flat-square&color=blue&label=Profile+Views)
 
+#### Connect with me: 
+<a href="https://www.linkedin.com/in/pb-a277b61ba/">
+  <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+</a>
 
 <p> I'm a Technology Enthusiast who likes software :p</p>
 
@@ -26,10 +30,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Software Development and AI
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about anything you want :D 
-- 📫 How to reach me(send me a mail): https://bcim13zvjn9.typeform.com/to/TuAG6e4m 
-- or, connect with me on <a href="https://www.linkedin.com/in/pb-a277b61ba/">
-  <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
-</a>
+- 📫 How to reach me(send me a mail with Typeform): https://bcim13zvjn9.typeform.com/to/TuAG6e4m 
 
 
 <p align="center">
@@ -39,8 +40,9 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+
+
 ### Tech Stacks: 
-**Languages and Tools:** 
 
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="techStack" width="50" height="50"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="techStack" width="50" height="50"/></a>
@@ -75,3 +77,4 @@ Here are some ideas to get you started:
 ## Some Repos you might find interesting :
 (Note: I keep updating these projects and some might a work in progress)
 
+<a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
