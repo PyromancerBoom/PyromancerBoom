@@ -4,6 +4,8 @@
 <a href="https://www.linkedin.com/in/pb-a277b61ba/">
   <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a>
+
+
 ![](https://komarev.com/ghpvc/?username=PyromancerBoom&style=flat-square&color=blue&label=Profile+Views)
 
 
@@ -40,6 +42,13 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PyromancerBoom&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PyromancerBoom&layout=compact&langs_count=8&theme=radical"/>
 </a>
+  <p align="center">
+  <a href="https://github.com/PyromancerBoom/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyromancerBoom&theme=radical#version3"/>
+  </a>
+</p>
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=PyromancerBoom&theme=gotham"></div>
 </p>
 
 
@@ -62,19 +71,6 @@ Here are some ideas to get you started:
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-plain.svg" alt="techStack" width="50" height="50"/></a>
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" alt="techStack" width="50" height="50"/></a>
 <br/>
-
-
-## 🔥 My contribution streak
-
-<p align="center">
-  <a href="https://github.com/PyromancerBoom/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PyromancerBoom&theme=radical#version3"/>
-  </a>
-</p>
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=PyromancerBoom&theme=gotham"></div>
-
-
 
 ## Some Repos you might find interesting :
 (Note: I keep updating these projects and some might a work in progress)
