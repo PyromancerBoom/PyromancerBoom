@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Stats
 
-- 🔭 I’m currently working on Software Development and AI
+- 🔭 I’m currently working on <b>API Gateways and AI</b>
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about anything you want :D 
 - 📫 How to reach me(send me a mail with Typeform): https://bcim13zvjn9.typeform.com/to/TuAG6e4m 
