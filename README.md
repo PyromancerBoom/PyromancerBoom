@@ -30,11 +30,24 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Stats
 
-- 🔭 I’m currently working on <b>API Gateways and AI</b>
+<!-- - 🔭 I’m currently working on <b></b> -->
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about anything you want :D 
 - 📫 How to reach me(send me a mail with Typeform): https://bcim13zvjn9.typeform.com/to/TuAG6e4m 
 
+## My public projects, chronologically:
+
+(I keep updating these projects and some might a work in progress)
+
+#### <a href="https://github.com/PyromancerBoom/SpringRESTApi">API Gateway Project, collab with ByteDance</a>
+#### <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
+#### <a href="https://supwooferai.vercel.app/">SupWoofer</a> <a href="https://devpost.com/software/supwoofer">Devpost</a>
+#### <a href="https://github.com/PyromancerBoom/ReviewSnapAI">ReviewSnap</a>
+#### <a href="https://github.com/PyromancerBoom/Makeathon2022">Hackathon project(Won span country)</a>
+#### <a href="https://github.com/PyromancerBoom/LoginUIDesign">An unusual login page UI</a>
+#### <a href="https://github.com/PyromancerBoom/easyBankLandingPage">Frontend Mentor Landing Page</a>
+#### <a href="https://github.com/PyromancerBoom/wordgenerator">Random Word generator</a>
+#### <a href="https://github.com/PyromancerBoom/idgenenc">Qovid-19</a>
 
 <p align="center">
 <a href="https://github.com/PyromancerBoom">
@@ -69,15 +82,4 @@ Here are some ideas to get you started:
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" alt="techStack" width="50" height="50"/></a>
 <br/>
 
-## My public projects, chronologically:
 
-(I keep updating these projects and some might a work in progress)
-
-#### <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
-#### <a href="https://supwooferai.vercel.app/">SupWoofer</a> <a href="https://devpost.com/software/supwoofer">Devpost</a>
-#### <a href="https://github.com/PyromancerBoom/ReviewSnapAI">ReviewSnap</a>
-#### <a href="https://github.com/PyromancerBoom/Makeathon2022">Hackathon project(Won span country)</a>
-#### <a href="https://github.com/PyromancerBoom/LoginUIDesign">An unusual login page UI</a>
-#### <a href="https://github.com/PyromancerBoom/easyBankLandingPage">Frontend Mentor Landing Page</a>
-#### <a href="https://github.com/PyromancerBoom/wordgenerator">Random Word generator</a>
-#### <a href="https://github.com/PyromancerBoom/idgenenc">Qovid-19</a>
