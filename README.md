@@ -1,10 +1,5 @@
 ## Hi there 👋 I'm Priyansh
 
-<a href="https://www.linkedin.com/in/pb-a277b61ba/">
-  <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
-</a>
-
-
 ![](https://komarev.com/ghpvc/?username=PyromancerBoom&style=flat-square&color=blue&label=Profile+Views)
 
 
