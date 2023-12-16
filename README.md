@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 (I keep updating these projects and some might a work in progress)
 
-#### <a href="https://github.com/PyromancerBoom/SpringRESTApi">API Gateway Project, collab with ByteDance</a>
+#### <a href="https://github.com/PyromancerBoom/Orbital23">API Gateway Project, collab with ByteDance</a>
 #### <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
 #### <a href="https://supwooferai.vercel.app/">SupWoofer</a> <a href="https://devpost.com/software/supwoofer">Devpost</a>
 #### <a href="https://github.com/PyromancerBoom/ReviewSnapAI">ReviewSnap</a>
