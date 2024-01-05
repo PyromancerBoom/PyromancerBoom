@@ -36,16 +36,16 @@ Here are some ideas to get you started:
 
 (I keep updating these projects and some might a work in progress)
 
-#### <a href="https://github.com/PyromancerBoom/Orbital23">API Gateway Project, collab with ByteDance</a>
-#### <a href="https://github.com/PyromancerBoom/ai-hack-nudge">Project Nudge</a>
-#### <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
-#### <a href="https://supwooferai.vercel.app/">SupWoofer</a>, more about this on <a href="https://devpost.com/software/supwoofer">Devpost</a>
-#### <a href="https://github.com/PyromancerBoom/ReviewSnapAI">ReviewSnap</a>
-#### <a href="https://github.com/PyromancerBoom/Makeathon2022">Hackathon project(Won span country)</a>
-#### <a href="https://github.com/PyromancerBoom/LoginUIDesign">An unusual login page UI</a>
-#### <a href="https://github.com/PyromancerBoom/easyBankLandingPage">Frontend Mentor Landing Page</a>
-#### <a href="https://github.com/PyromancerBoom/wordgenerator">Random Word generator</a>
-#### <a href="https://github.com/PyromancerBoom/idgenenc">Qovid-19</a>
+#### GitHub Repo: <a href="https://github.com/PyromancerBoom/Orbital23">API Gateway Project, collab with ByteDance</a>
+#### GitHub Repo: <a href="https://github.com/PyromancerBoom/ai-hack-nudge">Project Nudge</a>
+#### GitHub Repo: <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
+#### GitHub Repo: <a href="https://supwooferai.vercel.app/">SupWoofer</a>, more about this on <a href="https://devpost.com/software/supwoofer">Devpost</a>
+#### GitHub Repo: <a href="https://github.com/PyromancerBoom/ReviewSnapAI">ReviewSnap</a>
+#### GitHub Repo: <a href="https://github.com/PyromancerBoom/Makeathon2022">Hackathon project(Won span country)</a>
+#### GitHub Repo: <a href="https://github.com/PyromancerBoom/LoginUIDesign">An unusual login page UI</a>
+#### GitHub Repo: <a href="https://github.com/PyromancerBoom/easyBankLandingPage">Frontend Mentor Landing Page</a>
+#### GitHub Repo: <a href="https://github.com/PyromancerBoom/wordgenerator">Random Word generator</a>
+#### GitHub Repo: <a href="https://github.com/PyromancerBoom/idgenenc">Qovid-19</a>
 
 <p align="center">
 <a href="https://github.com/PyromancerBoom">
