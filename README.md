@@ -36,8 +36,9 @@ Here are some ideas to get you started:
 
 (I keep updating these projects and some might a work in progress)
 
+#### I'm working on <a href="https://devpost.com/software/bloomfin">BloomFin (Devpost Link)</a> which is in prototype stage currently 
 #### GitHub Repo: <a href="https://github.com/PyromancerBoom/Orbital23">API Gateway Project, collab with ByteDance</a>
-#### GitHub Repo: <a href="https://github.com/PyromancerBoom/ai-hack-nudge">Project Nudge</a>
+#### GitHub Repo: <a href="https://github.com/PyromancerBoom/ai-hack-nudge">Project Nudge</a>, more details on <a href="https://devpost.com/software/nudge-witgjs">Devpost</a>
 #### GitHub Repo: <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
 #### GitHub Repo: <a href="https://supwooferai.vercel.app/">SupWoofer</a>, more about this on <a href="https://devpost.com/software/supwoofer">Devpost</a>
 #### GitHub Repo: <a href="https://github.com/PyromancerBoom/ReviewSnapAI">ReviewSnap</a>
