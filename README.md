@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 </p>
 
 
-
+<!--
 ### Tech Stacks: 
 
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="techStack" width="50" height="50"/></a>
@@ -80,4 +80,4 @@ Here are some ideas to get you started:
 <a ><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg" alt="techStack" width="50" height="50"/></a>
 <br/>
 
-
+-->
