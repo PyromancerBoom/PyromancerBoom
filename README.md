@@ -5,7 +5,9 @@
 
 
 
-<p> I'm a Technology Enthusiast who likes software :p</p>
+<p> I like to build stuff :p</p>
+
+Connect with me on <a href="https://www.linkedin.com/in/priyanshbimbisariye/">LinkedIn</a>
 
 <!--
 **PyromancerBoom/PyromancerBoom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
