@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Stats
 
-<!-- - 🔭 I’m currently working on <b></b> -->
-- 👯 I’m looking to collaborate on Projects
+- 🔭 I’m currently working on <b>AI and Software to build Products</b>
+- 👯 I’m looking to collaborate on Innovative Projects
 - 💬 Ask me about anything you want :D 
 - 📫 How to reach me(send me a mail with Typeform): https://bcim13zvjn9.typeform.com/to/TuAG6e4m 
 
-## My public projects, chronologically:
+## Some of my public projects:
 
 (I keep updating these projects and some might a work in progress)
 
