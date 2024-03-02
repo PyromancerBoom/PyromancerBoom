@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Stats
 
-- 🔭 I’m currently working on <b>AI and Software to build Products</b>
+- 🔭 I’m currently working on <b>building awesome Products</b>
 - 👯 I’m looking to collaborate on Innovative Projects
 - 💬 Ask me about anything you want :D 
 - 📫 How to reach me(send me a mail with Typeform): https://bcim13zvjn9.typeform.com/to/TuAG6e4m 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 (I keep updating these projects and some might a work in progress)
 
-#### I'm working on <a href="https://devpost.com/software/bloomfin">BloomFin (Devpost Link)</a> which is in prototype stage currently 
+#### A work in progress but here it is anyways <a href="https://devpost.com/software/bloomfin">BloomFin (Devpost Link)</a> which is in prototype stage currently. (This project won 2nd place in NUS Fintech Hackathon, Ripple Track)
 #### GitHub Repo: <a href="https://github.com/PyromancerBoom/Orbital23">API Gateway Project, collab with ByteDance</a>
 #### GitHub Repo: <a href="https://github.com/PyromancerBoom/ai-hack-nudge">Project Nudge</a>, more details on <a href="https://devpost.com/software/nudge-witgjs">Devpost</a>
 #### GitHub Repo: <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
