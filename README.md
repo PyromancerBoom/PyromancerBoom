@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 (I keep updating these projects and some might a work in progress)
 
-#### A work in progress but here it is anyways <a href="https://devpost.com/software/bloomfin">BloomFin (Devpost Link)</a> which is in prototype stage currently. (This project won 2nd place in NUS Fintech Hackathon, Ripple Track)
+#### A work in progress but here it is anyways <a href="https://github.com/PyromancerBoom/FinBloom"> BloomFin, which is in prototype stage currently. (This project won 2nd place in NUS Fintech Hackathon, Ripple Track)
 #### GitHub Repo: <a href="https://github.com/PyromancerBoom/Orbital23">API Gateway Project, collab with ByteDance</a>
 #### GitHub Repo: <a href="https://github.com/PyromancerBoom/ai-hack-nudge">Project Nudge</a>, more details on <a href="https://devpost.com/software/nudge-witgjs">Devpost</a>
 #### GitHub Repo: <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
