@@ -34,17 +34,17 @@ Here are some ideas to get you started:
 
 (I keep updating these projects and some might a work in progress)
 
-#### A work in progress but here it is anyways <a href="https://github.com/PyromancerBoom/FinBloom"> BloomFin, which is in prototype stage currently. (This project won 2nd place in NUS Fintech Hackathon, Ripple Track)
-#### GitHub Repo: <a href="https://github.com/PyromancerBoom/Orbital23">API Gateway Project, collab with ByteDance</a>
-#### GitHub Repo: <a href="https://github.com/PyromancerBoom/ai-hack-nudge">Project Nudge</a>, more details on <a href="https://devpost.com/software/nudge-witgjs">Devpost</a>
-#### GitHub Repo: <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
-#### GitHub Repo: <a href="https://supwooferai.vercel.app/">SupWoofer</a>, more about this on <a href="https://devpost.com/software/supwoofer">Devpost</a>
-#### GitHub Repo: <a href="https://github.com/PyromancerBoom/ReviewSnapAI">ReviewSnap</a>
-#### GitHub Repo: <a href="https://github.com/PyromancerBoom/Makeathon2022">Hackathon project(Won span country)</a>
-#### GitHub Repo: <a href="https://github.com/PyromancerBoom/LoginUIDesign">An unusual login page UI</a>
-#### GitHub Repo: <a href="https://github.com/PyromancerBoom/easyBankLandingPage">Frontend Mentor Landing Page</a>
-#### GitHub Repo: <a href="https://github.com/PyromancerBoom/wordgenerator">Random Word generator</a>
-#### GitHub Repo: <a href="https://github.com/PyromancerBoom/idgenenc">Qovid-19</a>
+#### A work in progress but here it is anyways <a href="https://github.com/PyromancerBoom/FinBloom"> BloomFin </a>, which is in prototype stage currently. (This project won 2nd place in NUS Fintech Hackathon, Ripple Track)
+#### <a href="https://github.com/PyromancerBoom/Orbital23">API Gateway Project, collab with ByteDance</a>
+#### <a href="https://github.com/PyromancerBoom/ai-hack-nudge">Project Nudge</a>, more details on <a href="https://devpost.com/software/nudge-witgjs">Devpost</a>
+#### <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
+#### <a href="https://supwooferai.vercel.app/">SupWoofer</a>, more about this on <a href="https://devpost.com/software/supwoofer">Devpost</a>
+#### <a href="https://github.com/PyromancerBoom/ReviewSnapAI">ReviewSnap</a>
+#### <a href="https://github.com/PyromancerBoom/Makeathon2022">Hackathon project(Won span country)</a>
+#### <a href="https://github.com/PyromancerBoom/LoginUIDesign">An unusual login page UI</a>
+<!-- #### <a href="https://github.com/PyromancerBoom/easyBankLandingPage">Frontend Mentor Landing Page</a> -->
+#### <a href="https://github.com/PyromancerBoom/wordgenerator">Random Word generator</a>
+#### <a href="https://github.com/PyromancerBoom/idgenenc">Qovid-19</a>
 
 <p align="center">
 <a href="https://github.com/PyromancerBoom">
