@@ -27,13 +27,17 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <b>building awesome things</b>
 - 👯 I’m looking to collaborate on Innovative Projects
-- 💬 Ask me about anything you want :D 
+- 💬 Ask me about anything you want :D
+
+<!--
 - 📫 How to reach me(send me a mail with Typeform): https://bcim13zvjn9.typeform.com/to/TuAG6e4m 
+-->
 
 ## Some of my public projects:
 
 (I keep updating these projects and some might a work in progress)
 
+#### <a href="https://github.com/PyromancerBoom/hacknroll25-wifibeaters"> Project TunedIN (for Hack n Roll 2025) </a>. 
 #### A work in progress but here it is anyways - <a href="https://github.com/PyromancerBoom/FinBloom"> Finspire </a>. This project won 2nd place in NUS Fintech Hackathon, Ripple Track.
 #### <a href="https://github.com/PyromancerBoom/FinBloom"> Task Manager Chatbot </a>.
 #### <a href="https://github.com/PyromancerBoom/Orbital23">API Gateway Project, collab with ByteDance</a>
