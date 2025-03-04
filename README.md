@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 #### <a href="https://github.com/PyromancerBoom/hacknroll25-wifibeaters"> Project TunedIN (for Hack n Roll 2025) </a>. 
 #### A work in progress but here it is anyways - <a href="https://github.com/PyromancerBoom/FinBloom"> Finspire </a>. This project won 2nd place in NUS Fintech Hackathon, Ripple Track.
-#### <a href="https://github.com/PyromancerBoom/FinBloom"> Task Manager Chatbot </a>.
+#### <a href="https://github.com/PyromancerBoom/tp"> Task Manager Chatbot </a>.
 #### <a href="https://github.com/PyromancerBoom/Orbital23">API Gateway Project, collab with ByteDance</a>
 #### <a href="https://github.com/PyromancerBoom/ai-hack-nudge">Project Nudge</a>, more details on <a href="https://devpost.com/software/nudge-witgjs">Devpost</a>
 #### <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
