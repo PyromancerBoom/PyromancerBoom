@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on <b>building awesome things</b>
 - 👯 I’m looking to collaborate on Innovative Projects
-- 💬 Ask me about anything you want :D
+- 💬 Ask me about anything you want
 
 <!--
 - 📫 How to reach me(send me a mail with Typeform): https://bcim13zvjn9.typeform.com/to/TuAG6e4m 
@@ -35,13 +35,14 @@ Here are some ideas to get you started:
 
 ## Some of my public projects:
 
-The fancy and recent stuff:
+_The fancy and recent stuff:_
 #### <a href="https://github.com/PyromancerBoom/personate-ai">Personate AI - Ai Simulated Users for UX Research</a>
 #### <a href="https://github.com/PyromancerBoom/agora-voice-hack">AI-powered murder mystery game</a>
 #### <a href="https://github.com/PyromancerBoom/group27-cloud-comp-project">Hyperlocal spontaneous activity partner matching app on AWS</a>
 #### <a href="https://github.com/PyromancerBoom/aws-ai-agent-global-hackathon">Agentify</a>
 
-Before AI coding tools got insanely good:
+<br>
+_Before AI coding tools got insanely good:_
 #### Project <a href="https://github.com/PyromancerBoom/FinBloom"> Finspire </a>. **(Winning Project)**
 #### <a href="https://github.com/PyromancerBoom/hacknroll25-wifibeaters"> Project TunedIN (for Hack n Roll 2025) </a>. 
 #### <a href="https://github.com/PyromancerBoom/tp"> Task Manager Chatbot </a>.
@@ -50,7 +51,8 @@ Before AI coding tools got insanely good:
 #### <a href="https://supwooferai.vercel.app/">SupWoofer</a>, more about this on <a href="https://devpost.com/software/supwoofer">Devpost</a>
 #### <a href="https://github.com/PyromancerBoom/ReviewSnapAI">ReviewSnap</a>
 
-Back in 2021 when we didn't have AI:
+<br>
+_Back in 2021 when we didn't have AI:_
 #### <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
 #### <a href="https://github.com/PyromancerBoom/Makeathon2022">Hackathon project **(Winning Project)**</a>
 #### <a href="https://github.com/PyromancerBoom/LoginUIDesign">An unusual login page UI</a>
