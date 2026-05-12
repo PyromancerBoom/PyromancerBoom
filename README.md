@@ -41,7 +41,7 @@ _The fancy and recent stuff:_
 #### <a href="https://github.com/PyromancerBoom/group27-cloud-comp-project">Hyperlocal spontaneous activity partner matching app on AWS</a>
 #### <a href="https://github.com/PyromancerBoom/aws-ai-agent-global-hackathon">Agentify</a>
 
-<br>
+<br></br>
 _Before AI coding tools got insanely good:_
 #### Project <a href="https://github.com/PyromancerBoom/FinBloom"> Finspire </a>. **(Winning Project)**
 #### <a href="https://github.com/PyromancerBoom/hacknroll25-wifibeaters"> Project TunedIN (for Hack n Roll 2025) </a>. 
@@ -51,7 +51,7 @@ _Before AI coding tools got insanely good:_
 #### <a href="https://supwooferai.vercel.app/">SupWoofer</a>, more about this on <a href="https://devpost.com/software/supwoofer">Devpost</a>
 #### <a href="https://github.com/PyromancerBoom/ReviewSnapAI">ReviewSnap</a>
 
-<br>
+<br></br>
 _Back in 2021 when we didn't have AI:_
 #### <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
 #### <a href="https://github.com/PyromancerBoom/Makeathon2022">Hackathon project **(Winning Project)**</a>
