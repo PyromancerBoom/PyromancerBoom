@@ -35,17 +35,24 @@ Here are some ideas to get you started:
 
 ## Some of my public projects:
 
-(I keep updating these projects and some might a work in progress)
+The fancy and recent stuff:
+#### <a href="https://github.com/PyromancerBoom/personate-ai">Personate AI - Ai Simulated Users for UX Research</a>
+#### <a href="https://github.com/PyromancerBoom/agora-voice-hack">AI-powered murder mystery game</a>
+#### <a href="https://github.com/PyromancerBoom/group27-cloud-comp-project">Hyperlocal spontaneous activity partner matching app on AWS</a>
 #### <a href="https://github.com/PyromancerBoom/aws-ai-agent-global-hackathon">Agentify</a>
+
+Before AI coding tools got insanely good:
+#### Project <a href="https://github.com/PyromancerBoom/FinBloom"> Finspire </a>. **(Winning Project)**
 #### <a href="https://github.com/PyromancerBoom/hacknroll25-wifibeaters"> Project TunedIN (for Hack n Roll 2025) </a>. 
-#### Project <a href="https://github.com/PyromancerBoom/FinBloom"> Finspire </a>. (2nd place in NUS Fintech Hackathon, Ripple Track)
 #### <a href="https://github.com/PyromancerBoom/tp"> Task Manager Chatbot </a>.
-#### <a href="https://github.com/PyromancerBoom/Orbital23">API Gateway Project, collab with ByteDance</a>
+#### <a href="https://github.com/PyromancerBoom/Orbital23">API Gateway Project, collab with TikTok</a>
 #### <a href="https://github.com/PyromancerBoom/ai-hack-nudge">Project Nudge</a>, more details on <a href="https://devpost.com/software/nudge-witgjs">Devpost</a>
-#### <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
 #### <a href="https://supwooferai.vercel.app/">SupWoofer</a>, more about this on <a href="https://devpost.com/software/supwoofer">Devpost</a>
 #### <a href="https://github.com/PyromancerBoom/ReviewSnapAI">ReviewSnap</a>
-#### <a href="https://github.com/PyromancerBoom/Makeathon2022">Hackathon project(Won span country)</a>
+
+Back in 2021 when we didn't have AI:
+#### <a href="https://github.com/PyromancerBoom/SpringRESTApi">REST API with Spring Boot</a>
+#### <a href="https://github.com/PyromancerBoom/Makeathon2022">Hackathon project **(Winning Project)**</a>
 #### <a href="https://github.com/PyromancerBoom/LoginUIDesign">An unusual login page UI</a>
 <!-- #### <a href="https://github.com/PyromancerBoom/easyBankLandingPage">Frontend Mentor Landing Page</a> -->
 #### <a href="https://github.com/PyromancerBoom/wordgenerator">Random Word generator</a>
